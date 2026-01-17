@@ -1,0 +1,8 @@
+### Render server
+https://cse341-project1-4kfe.onrender.com/
+
+### Get all contacts
+https://cse341-project1-4kfe.onrender.com/contacts
+
+### Get contact by id
+https://cse341-project1-4kfe.onrender.com/contacts/696b91d5d9ee3062d39d8506
