@@ -1,4 +1,4 @@
-const router = require('express').Router(); //alows to handle routs
+const router = require('express').Router(); //allows to handle routs
 
 router.get('/', (req, res) => { res.send('Hello There') });
 
